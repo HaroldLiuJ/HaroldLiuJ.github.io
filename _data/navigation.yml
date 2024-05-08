@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    url: /files/CV.pdf
+
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=E97kG9IAAAAJ&hl=en&authuser=1
+
+#  - title: "Talks"
+#    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+
+
+  - title: "Coffee"
+    url: /coffee/
